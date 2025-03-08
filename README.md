@@ -2,6 +2,9 @@
 
 This is a simple **Simon Says** game built using **HTML**, **CSS**, and **JavaScript**. The game involves a sequence of colored buttons that light up, and the player has to repeat the sequence by clicking on the corresponding colored buttons. The game increases in difficulty as the player progresses through levels.
 
+##live dome link:
+   https://mdjunaid12.github.io/Simon-Says-Game/
+
 ## Features
 
 - **Press any key to start** the game.
@@ -37,7 +40,7 @@ To run the game locally on your machine, follow these steps:
 
 3. **Open index.html in your web browser to play the game.
 
-**Technologies Used**:
+##Technologies Used**:
   1.  HTML: Used for the basic structure and layout of the game.
   2.  CSS: Used to style the game and the buttons.
   3.  JavaScript: Used to add interactivity and game logic.
