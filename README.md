@@ -40,7 +40,8 @@ To run the game locally on your machine, follow these steps:
 
 3. **Open index.html in your web browser to play the game.
 
-##Technologies Used**:
+## Technologies Used
+
   1.  HTML: Used for the basic structure and layout of the game.
   2.  CSS: Used to style the game and the buttons.
   3.  JavaScript: Used to add interactivity and game logic.
